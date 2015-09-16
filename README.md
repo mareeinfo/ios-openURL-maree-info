@@ -47,10 +47,10 @@ Calendrier : maree-info://52/calendrier
 
 Ajouter `maree-info` dans Info.plist sous `LSApplicationQueriesSchemes`
 
-<code>
+<pre>
 &lt;key&gt;LSApplicationQueriesSchemes&lt;/key&gt;
   &lt;array&gt;
     &lt;string&gt;maree-info&lt;/string&gt;
     ...
   &lt;/array&gt;
-</code>
+</pre>
